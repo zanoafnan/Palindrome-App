@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.zanoafnan.palindromeapp"
-    compileSdk = 34
+    compileSdk = 31
 
     defaultConfig {
         applicationId = "com.zanoafnan.palindromeapp"
         minSdk = 19
-        targetSdk = 34
+        targetSdk = 31
         versionCode = 1
         versionName = "1.0"
 
